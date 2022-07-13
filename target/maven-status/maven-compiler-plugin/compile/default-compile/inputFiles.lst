@@ -1,0 +1,13 @@
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\model\Student.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\config\ApplicationConfiguration.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\controller\StudentController.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\service\DomainUserDetailsService.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\repository\UserRepository.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\service\StudentService.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\util\BootStrapAppData.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\model\Role.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\model\User.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\repository\RoleRepository.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\StudentApiApplication.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\repository\StudentRepository.java
+C:\venkat\work\studentcrudwithsecurity\src\main\java\com\gl\studentsapi\model\DomainUserDetails.java

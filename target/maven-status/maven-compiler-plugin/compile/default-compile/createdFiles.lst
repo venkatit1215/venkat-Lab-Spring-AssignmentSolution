@@ -1,0 +1,13 @@
+com\gl\studentsapi\controller\StudentController.class
+com\gl\studentsapi\util\BootStrapAppData.class
+com\gl\studentsapi\model\Role.class
+com\gl\studentsapi\service\DomainUserDetailsService.class
+com\gl\studentsapi\StudentApiApplication.class
+com\gl\studentsapi\model\DomainUserDetails.class
+com\gl\studentsapi\service\StudentService.class
+com\gl\studentsapi\model\Student.class
+com\gl\studentsapi\repository\UserRepository.class
+com\gl\studentsapi\repository\StudentRepository.class
+com\gl\studentsapi\model\User.class
+com\gl\studentsapi\config\ApplicationConfiguration.class
+com\gl\studentsapi\repository\RoleRepository.class
